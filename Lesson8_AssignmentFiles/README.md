@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(April 14, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Nicole Rapp)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Added multiple movie items to the web application interface .)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://nicolerapp.github.io/lesson8_ajax/Lesson8_AssignmentFiles/index.html.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (The $.ajax() function is a behind the scene function usising a present configuration.)
+2. (The url parameter is a string containing the URL you want to reach with the Ajax call.)
+3. (Option is an object literal containaing the configuration for the Ajax request.)
